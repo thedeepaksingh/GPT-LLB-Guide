@@ -1,5 +1,5 @@
 # Topic 4 — Historical School of Jurisprudence
-**Paper:** K-1001 · **Created:** 2026-10-27 23:35 IST  
+**Paper:** K-1001 · **Created:** 2026-10-27 23:13 IST  
 **Syllabus anchor:** Friedrich Karl von Savigny and Sir Henry Sumner Maine.  
 **Status:** Study draft.
 
