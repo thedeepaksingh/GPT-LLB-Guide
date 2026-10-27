@@ -1,5 +1,5 @@
 # K-1001 — Master comparison of jurisprudential schools
-**Created:** 2026-10-27 23:55 IST · **Status:** Revision resource  
+**Created:** 2026-10-27 23:15 IST · **Status:** Revision resource  
 Use this after studying each topic. The marks in an answer usually come from explaining the theory, not only reproducing a table.
 
 ## 1. One-page map
