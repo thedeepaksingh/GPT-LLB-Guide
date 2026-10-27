@@ -7,8 +7,13 @@
 1. [Study roadmap, syllabus validation and coverage gaps](docs/ROADMAP.md)
 2. [Paper 1 — Jurisprudence I (Legal Theory)](papers/semester-1/01-jurisprudence/README.md)
 3. [Jurisprudence exam-writing method](papers/semester-1/01-jurisprudence/exam-method.md)
-4. [Syllabus and source register](sources/ccsu-syllabus.md)
-5. [Timestamped change log](CHANGELOG.md)
+4. [K-1001 question bank and answer outlines](papers/semester-1/01-jurisprudence/question-bank.md)
+5. [Master comparison of jurisprudential schools](papers/semester-1/01-jurisprudence/schools-comparison.md)
+6. [Case illustrations and case briefs](papers/semester-1/01-jurisprudence/case-illustrations.md)
+7. [Flashcards and revision plan](papers/semester-1/01-jurisprudence/revision-deck.md)
+8. [Timed K-1001 mock paper](papers/semester-1/01-jurisprudence/mock-paper-1.md)
+9. [Syllabus and source register](sources/ccsu-syllabus.md)
+10. [Timestamped change log](CHANGELOG.md)
 
 ## Semester 1 paper map — verify cohort-specific scheme
 The CCSU-hosted amended three-year LL.B. syllabus (w.e.f. 2017–18) lists five 100-mark papers:
