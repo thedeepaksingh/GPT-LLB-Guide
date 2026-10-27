@@ -22,20 +22,30 @@
 - **Official page:** https://www.ccsuniversity.ac.in/faculty/Law/department/Legal_Studies
 - Lists a syllabus section with LL.B. syllabus and a separately named BA LL.B. updated syllabus (August 2024). Do not mistake the BA LL.B. PDF for the three-year LL.B. course.
 
+### 4. IEC Law College — official programme pages
+- **Approved courses:** https://ieclawcollege.in/approved-courses.php
+- **Department of LL.B.:** https://ieclawcollege.in/department-of-llb.php
+- **Use:** Confirms the college's LL.B. programme and provides institution-specific context. It does not, by itself, establish the exact unit-wise syllabus or exam scheme followed by your admission batch.
+- **Action still required:** Ask IEC for your batch's syllabus circular, paper codes, reading list, latest question paper and any faculty/unit-plan additions. This is the final control point before declaring the material session-specific.
+
 ## Primary legal sources
 
-### 4. India Code — Bharatiya Nyaya Sanhita, 2023
+### 5. India Code — Bharatiya Nyaya Sanhita, 2023
 - **Official text:** https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf
 - **Metadata:** Act No. 45 of 2023; enacted 25 December 2023. The Act text records commencement from 1 July 2024, except the specified provision in section 106(2), per notification.
 - **Use:** Primary legislation for the BNS paper. Verify commencement and amendments against the current official record before quoting provisions.
 
-### 5. Legislative Department — Constitution of India
+### 6. Legislative Department — Constitution of India
 - **Official document portal:** https://www.legislative.gov.in/documents
 - **English Constitution page:** https://www.legislative.gov.in/document/constitution-of-india-in-english
 - **Use:** Constitutional papers and examples of constitutional interpretation. Select the latest officially published text and check subsequent amendments.
 
-### 6. Supreme Court of India judgments
+### 7. Supreme Court of India judgments
 - **Judgment portal:** https://www.sci.gov.in/
+- **Maneka Gandhi v Union of India (1978):** https://api.sci.gov.in/jonew/judis/5154.pdf
+- **Justice K.S. Puttaswamy (Retd.) v Union of India (2017):** https://api.sci.gov.in/supremecourt/2012/35071/35071_2012_Judgement_24-Aug-2017.pdf
+- **Navtej Singh Johar v Union of India (2018):** https://api.sci.gov.in/supremecourt/2016/14961/14961_2016_Judgement_06-Sep-2018.pdf
+- **Olga Tellis v Bombay Municipal Corporation (1985):** https://api.sci.gov.in/jonew/judis/9246.pdf
 - **Example primary judgment source:** https://api.sci.gov.in/supremecourt/2019/1827/1827_2019_1_1501_39619_Judgement_07-Nov-2022.pdf
 - **Use:** Primary judgments for proposition and subsequent legal status. When a case is cited in a topic pack, verify the judgment or a reliable law report; do not rely solely on snippets.
 
