@@ -1,5 +1,5 @@
 # K-1001 — Question bank and answer outlines
-**Created:** 2026-10-27 23:55 IST  
+**Created:** 2026-10-27 23:15 IST  
 **Use:** Practise after reading the topic packs. “Likely” indicates syllabus coverage and past-paper relevance, not certainty about a future exam.
 
 ## 1. Past-paper pattern evidence
