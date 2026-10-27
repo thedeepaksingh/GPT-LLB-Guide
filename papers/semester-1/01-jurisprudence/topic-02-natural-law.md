@@ -1,5 +1,5 @@
 # Topic 2 — Natural Law School
-**Paper:** K-1001 · **Created:** 2026-10-27 23:25 IST  
+**Paper:** K-1001 · **Created:** 2026-10-27 23:12 IST  
 **Syllabus anchor:** Classical natural law; revival of natural law—Rudolf Stammler and Kohler.  
 **Status:** Study draft; statutory section numbers are not central to this theory.
 
