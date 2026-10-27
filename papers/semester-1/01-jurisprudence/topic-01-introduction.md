@@ -1,5 +1,5 @@
 # Topic 1 — Introduction to Jurisprudence
-**Paper:** K-1001 · **Created:** 2026-10-27 23:25 IST  
+**Paper:** K-1001 · **Created:** 2026-10-27 23:12 IST  
 **Syllabus anchor:** Definition, nature and scope of jurisprudence; importance of its study.  
 **Status:** Study draft; checked against CCSU topic wording on 2026-10-27.  
 **Statutory update note:** This is principally a theoretical topic; there is no single “jurisprudence section” in an Act.
