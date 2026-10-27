@@ -1,5 +1,5 @@
 # Topic 5 — Sociological School of Jurisprudence
-**Paper:** K-1001 · **Created:** 2026-10-27 23:45 IST  
+**Paper:** K-1001 · **Created:** 2026-10-27 23:14 IST  
 **Syllabus anchor:** Background and characteristics; Roscoe Pound; Léon Duguit.  
 **Status:** Study draft.
 
