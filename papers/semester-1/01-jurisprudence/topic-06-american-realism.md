@@ -1,5 +1,5 @@
 # Topic 6 — American Modern Legal Realism
-**Paper:** K-1001 · **Created:** 2026-10-27 23:45 IST  
+**Paper:** K-1001 · **Created:** 2026-10-27 23:14 IST  
 **Syllabus anchor:** American Modern Realism.  
 **Status:** Study draft.
 
