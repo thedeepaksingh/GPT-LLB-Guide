@@ -1,7 +1,7 @@
 # Roadmap and gap audit
 **Created:** 2026-10-27 23:11 IST (UTC+05:30)  
 **Current workstream:** Semester 1 · Paper 1 · Jurisprudence I (K-1001)  
-**Workflow:** one paper at a time; do not begin full drafting of Paper 2 until Paper 1 has a syllabus-mapped core guide, model answers and test pack.
+**Status at 2026-10-27:** First-pass notes, comparisons, case illustrations, question bank, flashcards and one mock paper are in the repository. Continue validating Paper 1 against IEC's actual cohort syllabus and prescribed editions before treating it as final. Then proceed to Paper 2.
 
 ## 1. Confirm your exact course
 This project assumes the **three-year LL.B.** at IEC Law College, affiliated with CCSU Meerut. CCSU’s official amended three-year LL.B. syllabus (w.e.f. 2017–18) contains five Semester 1 papers, each shown as 100 marks. The university’s January 2026 examination programme separately shows BNS code K-1006 starting w.e.f. 2024–25 and IPC code K-1004 for ex/back-paper students. Your admission session and exam category therefore matter.
@@ -16,7 +16,7 @@ This project assumes the **three-year LL.B.** at IEC Law College, affiliated wit
 Until these are checked, treat syllabus and pattern descriptions as carefully sourced but provisional for your individual cohort.
 
 ## 2. Semester 1 coverage checklist
-- [ ] Paper 1: Jurisprudence I (Legal Theory), K-1001 — **active**
+- [x] Paper 1: Jurisprudence I (Legal Theory), K-1001 — first-pass study pack drafted; final faculty/source verification pending
 - [ ] Paper 2: Constitutional Law of India I, K-1002
 - [ ] Paper 3: Law of Torts (including Consumer Protection in the more recent timetable naming), K-1003
 - [ ] Paper 4: Law of Crimes — legacy IPC/K-1004 **versus** BNS/K-1006 for newer cohorts; determine applicability before drafting
@@ -61,4 +61,4 @@ For each syllabus unit and each examinable subtopic, record:
 - Major statutory changes are maintained in a dedicated comparison table (for example IPC ↔ BNS) so older and current law are not mixed.
 
 ## 6. Current stopping point
-Paper 1 is being built against the exact seven-topic outline transcribed from the CCSU-hosted amended K-1001 syllabus: Introduction; Natural Law (classical and revival, Stammler and Kohler); Analytical School (Austin, Kelsen, Hart); Historical School (Savigny, Maine); Sociological School (Pound, Duguit); American Modern Realism; Marxist economic approach. Before calling the paper complete, all seven topics must be covered and checked against the full syllabus and prescribed texts.
+The first-pass K-1001 pack now covers the seven-topic outline in the CCSU-hosted amended syllabus: Introduction; Natural Law (classical and revival, Stammler and Kohler); Analytical School (Austin, Kelsen, Hart); Historical School (Savigny, Maine); Sociological School (Pound, Duguit); American Modern Realism; Marxist economic approach. Supporting material includes a master comparison matrix, case illustrations, 4/5-mark answers, 10-mark answer plans, 20-mark essays, 30 flashcards and a timed mock paper. Remaining work is cohort-specific syllabus confirmation, instructor/past-paper alignment, and a final check of each case's precise holding and current status.
