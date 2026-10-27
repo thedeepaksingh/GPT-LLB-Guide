@@ -35,6 +35,11 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Added a 100-mark practice paper using the publicly transcribed December 2024 pattern as a practice template, with a clear warning that actual current instructions control.
 - Added self-marking criteria and an error log for review after a timed attempt.
 
+## 2026-10-27 23:21 IST — source register strengthened
+- Added IEC Law College's official LL.B. programme pages as the institution-specific source layer.
+- Added official Supreme Court judgment links for Maneka Gandhi, Puttaswamy, Navtej Singh Johar and Olga Tellis.
+- Recorded that IEC's exact admission-batch syllabus and faculty material remain needed to close the cohort-specific verification gap.
+
 ## Accuracy and maintenance notes
 - The K-1001 study package is a substantial first draft, not a guarantee of full marks. Confirm the exact cohort syllabus and current examination scheme with IEC/CCSU.
 - Public previous-paper transcriptions show different mark structures across years; the paper’s current official instructions control.
