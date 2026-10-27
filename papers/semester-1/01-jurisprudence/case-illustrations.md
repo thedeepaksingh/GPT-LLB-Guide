@@ -1,5 +1,5 @@
 # Jurisprudence I — case illustrations and limits
-**Created:** 2026-10-27 23:55 IST  
+**Created:** 2026-10-27 23:15 IST  
 **Purpose:** Carefully selected legal examples for law, justice, validity, interpretation, dignity and social consequences. These cases supplement the theory syllabus; the seven syllabus topics are still primarily about jurisprudential thinkers and ideas.
 
 ## How to cite a case in K-1001
@@ -41,7 +41,7 @@ Use the sequence **facts → issue → holding → ratio/reasoning → relevance
 **Holding / principle:** The Court read down section 377 IPC insofar as it criminalized consensual sexual conduct between adults of the same sex; the decision did not immunize non-consensual acts or conduct involving animals. The opinions discuss dignity, autonomy, equality and constitutional morality.  
 **Jurisprudential relevance:** The case is useful for explaining how constitutional principles may constrain a rule with a history of moral disapproval, and for discussing the relationship between social morality and constitutional morality.  
 **Critical current-law note:** This is a historical case about section 377 IPC. Do not copy the old IPC section number into a current BNS answer or assume that a former section maps one-to-one into the BNS. If current criminal liability is the question, use the statutory text applicable to the relevant date and conduct.  
-**Official judgment:** https://api.sci.gov.in/supremecourt/2017/32550/32550_2017_Judgement_06-Sep-2018.pdf
+**Official judgment:** https://api.sci.gov.in/supremecourt/2016/14961/14961_2016_Judgement_06-Sep-2018.pdf
 
 ## 5. Olga Tellis v Bombay Municipal Corporation
 **Citation:** (1985) 3 SCC 545; also reported as 1986 AIR 180.  
