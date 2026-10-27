@@ -2,7 +2,7 @@
 **University:** Chaudhary Charan Singh University (CCSU), Meerut  
 **College:** IEC Law College  
 **Paper code:** K-1001 (verify against your admission/exam session)  
-**Created:** 2026-10-27 23:15 IST  
+**Created:** 2026-10-27 23:11 IST  
 **Syllabus/source check:** 2026-10-27  
 **Status:** Draft v0.1 — syllabus outline mapped; detailed topic packs in progress.
 
