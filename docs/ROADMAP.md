@@ -1,5 +1,5 @@
 # Roadmap and gap audit
-**Created:** 2026-10-27 23:15 IST (UTC+05:30)  
+**Created:** 2026-10-27 23:11 IST (UTC+05:30)  
 **Current workstream:** Semester 1 · Paper 1 · Jurisprudence I (K-1001)  
 **Workflow:** one paper at a time; do not begin full drafting of Paper 2 until Paper 1 has a syllabus-mapped core guide, model answers and test pack.
 
