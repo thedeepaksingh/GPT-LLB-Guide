@@ -1,5 +1,5 @@
 # Topic 3 — Analytical School of Jurisprudence
-**Paper:** K-1001 · **Created:** 2026-10-27 23:35 IST  
+**Paper:** K-1001 · **Created:** 2026-10-27 23:13 IST  
 **Syllabus anchor:** John Austin, Hans Kelsen and H.L.A. Hart. Bentham is added as context because it appears in available past-paper questions.  
 **Status:** Study draft.
 
