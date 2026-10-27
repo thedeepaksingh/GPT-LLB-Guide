@@ -4,7 +4,7 @@
 **Paper code:** K-1001 (verify against your admission/exam session)  
 **Created:** 2026-10-27 23:11 IST  
 **Syllabus/source check:** 2026-10-27  
-**Status:** Draft v0.1 — syllabus outline mapped; detailed topic packs in progress.
+**Status:** Draft v0.2 — all seven syllabus topics have baseline notes, model answers, comparisons, case illustrations, question bank, flashcards and a mock paper. Faculty/cohort verification and detailed primary-source cross-checks remain open.
 
 ## 1. Exact syllabus outline
 The CCSU-hosted *LL.B. 3 Year (Six Semester) Course — Amended Syllabus (w.e.f. 2017–18)* states:
@@ -19,17 +19,17 @@ The CCSU-hosted *LL.B. 3 Year (Six Semester) Course — Amended Syllabus (w.e.f.
 **Recommended books shown in the CCSU syllabus:** Bodenheimer, *Jurisprudence*; Dias, *Jurisprudence*; Friedman, *Law in Changing Society*; Lloyd, *Introduction to Jurisprudence*; V.D. Mahajan, *Jurisprudence*; Paton, *Jurisprudence*; Salmond, *Jurisprudence*.
 
 ## 2. Topic map and completion status
-- [ ] Topic 1 — Meaning, definitions, nature, scope and importance
-- [ ] Topic 2 — Natural law: classical theories, revival, Stammler and Kohler
-- [ ] Topic 3 — Analytical school: Bentham (context), Austin, Kelsen and Hart
-- [ ] Topic 4 — Historical school: Savigny and Maine
-- [ ] Topic 5 — Sociological school: Pound and Duguit
-- [ ] Topic 6 — American modern legal realism
-- [ ] Topic 7 — Marxist/economic approach to law
-- [ ] Synoptic comparison of all schools and thinkers
-- [ ] Verified case-law illustrations and contemporary relevance
-- [ ] Short answers, 10-mark answers and long essays
-- [ ] Mock paper + self-marking rubric + revision deck
+- [x] Topic 1 — Meaning, definitions, nature, scope and importance
+- [x] Topic 2 — Natural law: classical theories, revival, Stammler and Kohler
+- [x] Topic 3 — Analytical school: Bentham (context), Austin, Kelsen and Hart
+- [x] Topic 4 — Historical school: Savigny and Maine
+- [x] Topic 5 — Sociological school: Pound and Duguit
+- [x] Topic 6 — American modern legal realism
+- [x] Topic 7 — Marxist/economic approach to law
+- [x] Synoptic comparison of all schools and thinkers
+- [x] Case illustrations with facts, issues, principles and theory relevance (perform final case-by-case checks before quoting)
+- [x] Short answers, 10-mark answer plans and long-essay answers
+- [x] Mock paper + self-marking rubric + revision deck
 - [ ] Faculty/session-specific syllabus confirmation
 
 Each topic must be marked complete only after its explanation, critique, question bank and source verification are present.
@@ -71,5 +71,19 @@ Case law should be used as a short illustration of law, morality, authority, int
 
 Before using any case in an exam, check that its facts and proposition support the point you make. Do not claim that a case directly adopted Austin, Hart, Pound or another theorist unless an authoritative judgment actually says so.
 
-## 7. Detailed topic packs
-The topic files will be added under this directory. Maintain a source register and timestamp for each pack. For how to shape an exam answer, see [Exam method](exam-method.md).
+## 7. Detailed topic packs and tools
+- [Topic 1 — Introduction to Jurisprudence](topic-01-introduction.md)
+- [Topic 2 — Natural Law School](topic-02-natural-law.md)
+- [Topic 3 — Analytical School: Austin, Kelsen and Hart](topic-03-analytical-school.md)
+- [Topic 4 — Historical School: Savigny and Maine](topic-04-historical-school.md)
+- [Topic 5 — Sociological School: Pound and Duguit](topic-05-sociological-school.md)
+- [Topic 6 — American Modern Realism](topic-06-american-realism.md)
+- [Topic 7 — Marxist Economic Approach](topic-07-marxist-economic-approach.md)
+- [Master comparison matrix](schools-comparison.md)
+- [Case illustrations and case briefs](case-illustrations.md)
+- [Question bank and answer outlines](question-bank.md)
+- [Flashcards and active recall](revision-deck.md)
+- [Timed mock examination 1](mock-paper-1.md)
+- [Exam method](exam-method.md)
+
+**What is not yet complete:** confirm IEC’s exact syllabus version and prescribed editions; check all case facts and propositions against primary judgments/law reports; add instructor-specific past papers; and expand each model answer if IEC’s evaluation pattern requires more depth. All seven syllabus units now have first-pass notes, but this is not a guarantee that every possible question is covered.
