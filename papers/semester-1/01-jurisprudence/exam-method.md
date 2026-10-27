@@ -1,5 +1,5 @@
 # Jurisprudence I — answer-writing method
-**Created:** 2026-10-27 23:15 IST  
+**Created:** 2026-10-27 23:11 IST  
 **Status:** Draft v0.1; adapt to official current paper instructions.
 
 ## A. Universal structure for a theory essay
