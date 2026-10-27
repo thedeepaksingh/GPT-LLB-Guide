@@ -1,5 +1,5 @@
 # K-1001 — Revision deck and active-recall plan
-**Created:** 2026-10-27 23:55 IST  
+**Created:** 2026-10-27 23:16 IST  
 Cover the question side before revealing the answer. For an oral recall session, answer in 30–60 seconds.
 
 ## 1. Flashcards
