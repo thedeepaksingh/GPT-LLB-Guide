@@ -31,8 +31,12 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 ## 2026-10-27 23:16 IST — revision support
 - Added 30 flashcards, a seven-day revision cycle, spaced-recall guidance and oral recall questions.
 
+## 2026-10-27 23:19 IST — timed mock paper added
+- Added a 100-mark practice paper using the publicly transcribed December 2024 pattern as a practice template, with a clear warning that actual current instructions control.
+- Added self-marking criteria and an error log for review after a timed attempt.
+
 ## Accuracy and maintenance notes
 - The K-1001 study package is a substantial first draft, not a guarantee of full marks. Confirm the exact cohort syllabus and current examination scheme with IEC/CCSU.
 - Public previous-paper transcriptions show different mark structures across years; the paper’s current official instructions control.
-- The *Navtej Singh Johar* official judgment URL and original creation-time metadata were corrected in a maintenance follow-up. The exact audit timestamp of that correction is recorded in GitHub commit history.
-- The next planned step is to add a timed mock paper, then validate K-1001 against the prescribed IEC reading list and faculty notes before beginning K-1002.
+- A maintenance follow-up corrected original creation-time metadata and corrected the *Navtej Singh Johar* official judgment URL. GitHub commit history is the audit record for those follow-up corrections.
+- Next, validate K-1001 against the prescribed IEC reading list, faculty notes and current cohort syllabus. Then proceed to K-1002.
