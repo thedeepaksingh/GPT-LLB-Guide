@@ -1,5 +1,5 @@
 # Topic 7 — Marxist Economic Approach to Law
-**Paper:** K-1001 · **Created:** 2026-10-27 23:45 IST  
+**Paper:** K-1001 · **Created:** 2026-10-27 23:14 IST  
 **Syllabus anchor:** Economic Approach of Law — Marxist economic approach on law.  
 **Status:** Study draft.
 
