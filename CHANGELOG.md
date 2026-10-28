@@ -45,3 +45,10 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Public previous-paper transcriptions show different mark structures across years; the paper’s current official instructions control.
 - A maintenance follow-up corrected original creation-time metadata and corrected the *Navtej Singh Johar* official judgment URL. GitHub commit history is the audit record for those follow-up corrections.
 - Next, validate K-1001 against the prescribed IEC reading list, faculty notes and current cohort syllabus. Then proceed to K-1002.
+
+
+## 2026-10-28 10:35 IST — Paper 2 started
+- Opened a separate workstream for K-1002 Constitutional Law of India I, preserving the one-paper-at-a-time approach.
+- Added the paper map, first-pass notes on the nature of the Constitution and Fundamental Rights, article/case map, question bank, mock examination and source/gap register.
+- Added explicit warnings about cohort-specific syllabus verification, Article 19 clause-specific restriction grounds, Article 12 State tests, Article 13 vs Article 368, and checking current constitutional text and primary judgments.
+- The K-1002 first-pass pack is not yet faculty-verified; exact IEC batch syllabus, prescribed readings, current exam format and case-by-case primary-source review remain open.
