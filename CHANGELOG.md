@@ -61,3 +61,9 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 ## 2026-10-28 11:30 IST — Paper 2 model-answer gap fixed
 - Added a dedicated model-answer file covering all eight “Likely questions” listed in Topic 1: salient features; Preamble; constitutionalism; federalism; basic structure; Fundamental Rights vs Directive Principles; separation of powers; and *Kesavananda Bharati* / *Minerva Mills*.
 - Linked the answer file from both the topic notes and Paper 2 index so question prompts are not left without a clear full-answer destination.
+
+## 2026-10-28 12:15 IST — Answer completeness expanded for Papers 1 and 2
+- Paper 1: added a dedicated model-answer file with 15 developed jurisprudence essays covering all seven schools/topics and core comparisons.
+- Paper 2: added a dedicated model-answer file with 12 developed answers across Articles 12–35, including Article 12, Article 13, Articles 14, 19, 20, 22, 25–30, writs, Article 21, Fundamental Rights/DPSPs and judicial review.
+- Linked the new answer files from the paper indexes and updated the K-1001 coverage checklist.
+- Not falsely marked cohort-specific syllabus verification, official exam-pattern verification, or case-by-case primary-source checking as complete; those require the student's actual IEC batch materials and final authoritative-source review.
