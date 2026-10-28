@@ -25,6 +25,7 @@ The CCSU-hosted amended three-year LL.B. syllabus describes this paper as **“C
 
 ## 3. Study files
 - [Topic 1 — Nature of the Constitution](topic-01-nature-of-constitution.md)
+- [Full model answers to all eight Topic 1 likely questions](likely-questions-model-answers.md)
 - [Topic 2 — Fundamental Rights](topic-02-fundamental-rights.md)
 - [Constitutional article map and case table](article-case-map.md)
 - [Question bank and model answer plans](question-bank.md)
