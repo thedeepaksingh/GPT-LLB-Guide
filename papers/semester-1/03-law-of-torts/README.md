@@ -1,11 +1,24 @@
 # Paper 3 — Law of Torts and Consumer Protection Laws
 **Paper code:** K-1003  
 **Programme:** Three-year LL.B. · Semester I · IEC Law College / CCSU (confirm cohort applicability)  
-**Status:** Expanded consolidated Q&A draft  
-**Updated:** 2026-10-28 13:20 IST (UTC+05:30)
+**Status:** Topic-wise notes + consolidated Q&A draft  
+**Updated:** 2026-10-28 13:30 IST (UTC+05:30)
 
 ## One-place Questions and Answers
 **Primary study file:** [Consolidated Questions and Answers](question-and-answers.md). Each question is followed immediately by its answer. It includes short-answer revision, developed long answers, comparison questions and worked problem questions.
+
+## Topic-by-topic study notes
+
+These are the detailed topic files. Read them in sequence, then use the consolidated Q&A for exam practice.
+
+1. [Topic 1 — Foundations and Tortious Liability](topic-01-foundations-and-tortious-liability.md)
+2. [Topic 2 — General Defences in Tort](topic-02-general-defences.md)
+3. [Topic 3 — Vicarious Liability, State Liability and Joint Tortfeasors](topic-03-vicarious-state-and-joint-liability.md)
+4. [Topic 4 — Negligence, Nuisance, Trespass, Defamation and Other Specific Torts](topic-04-specific-torts-and-remedies.md)
+5. [Topic 5 — Consumer Protection Laws](topic-05-consumer-protection.md)
+6. [Consolidated Questions and Answers](question-and-answers.md)
+
+Each topic note contains concepts, legal tests, illustrations, leading cases, practice questions/answer plans and a revision checklist. This is a first-pass set; final cohort mapping and primary-source verification remain open.
 
 ## Coverage
 - Definition, nature, development and constituents of tort
