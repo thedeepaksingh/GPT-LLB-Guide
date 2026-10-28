@@ -95,3 +95,11 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Added explicit caution to use the current 2019 consumer statute/rules and avoid outdated pecuniary thresholds or criminal-law numbering.
 - Updated the repository home page and added a Paper 3 index.
 - Open verification items remain: exact IEC cohort syllabus/exam scheme, official question papers, current consumer-procedure rules, and primary-judgment citation/ratio audit. This is an expanded first-pass draft, not certified as final.
+
+
+## 2026-10-28 13:30 IST — Paper 3 topic-by-topic notes added
+- Responded to the gap that the consolidated Q&A alone did not provide a navigable, detailed topic-by-topic study pack.
+- Added five dedicated topic files: foundations/tortious liability; general defences; vicarious, State and joint liability; specific torts/remedies; and Consumer Protection Act, 2019.
+- Each topic file includes explanatory notes, elements/tests, case-law anchors, examples or worked problems, exam question plans and revision checklists.
+- Updated the Paper 3 index with direct links to each topic and retained the consolidated Q&A as a separate exam-practice resource.
+- These notes are detailed first-pass material, not a claim of final syllabus or case-law verification. Cohort-specific mapping, current statutory rules and primary-judgment audit remain open.
