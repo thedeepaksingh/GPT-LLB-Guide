@@ -72,3 +72,10 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Created one-place Questions and Answers files for K-1001 Jurisprudence I and K-1002 Constitutional Law I.
 - Each file consolidates the question bank and available model answers, while clearly preserving prompts/outlines that still require full-answer completion and the open syllabus/case verification tasks.
 - Linked the consolidated files from both paper indexes and the repository home page.
+
+## 2026-10-28 13:10 IST — Consolidated answer gaps addressed
+- Added full answer keys for the remaining K-1001 10-mark outlines and jurisprudence extension questions, including natural law/positivism, realism and application prompts.
+- Added full answer keys for the remaining K-1002 10-mark plans and worked answers to all five constitutional problem questions.
+- Integrated those answer keys into the two consolidated Questions and Answers master files so the primary study documents contain the previously separate answer material.
+- Updated both paper indexes and the repository home page.
+- Remaining verification is explicitly not claimed complete: exact IEC cohort syllabus and exam scheme, official paper review, and full primary-judgment/subsequent-treatment audit still require authoritative materials and checking.
