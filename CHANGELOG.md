@@ -67,3 +67,8 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Paper 2: added a dedicated model-answer file with 12 developed answers across Articles 12–35, including Article 12, Article 13, Articles 14, 19, 20, 22, 25–30, writs, Article 21, Fundamental Rights/DPSPs and judicial review.
 - Linked the new answer files from the paper indexes and updated the K-1001 coverage checklist.
 - Not falsely marked cohort-specific syllabus verification, official exam-pattern verification, or case-by-case primary-source checking as complete; those require the student's actual IEC batch materials and final authoritative-source review.
+
+## 2026-10-28 12:30 IST — Consolidated Q&A files added
+- Created one-place Questions and Answers files for K-1001 Jurisprudence I and K-1002 Constitutional Law I.
+- Each file consolidates the question bank and available model answers, while clearly preserving prompts/outlines that still require full-answer completion and the open syllabus/case verification tasks.
+- Linked the consolidated files from both paper indexes and the repository home page.
