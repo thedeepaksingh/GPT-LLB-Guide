@@ -67,6 +67,6 @@
 
 ## Paper 2 research note — K-1002
 - Course title in the amended three-year LL.B. syllabus: **Constitutional Law of India I (Nature of the Constitution and Fundamental Rights)**.
-- The first-pass study pack is at: https://github.com/thedeepaksingh/GPT-LLB-Guide/tree/main/papers/semester-1/02-constitutional-law-i (branch work will be merged after review).
+- The first-pass study pack is at: https://github.com/thedeepaksingh/GPT-LLB-Guide/tree/main/papers/semester-1/02-constitutional-law-i
 - Core official source for the constitutional text: https://www.legislative.gov.in/document/constitution-of-india-in-english
 - Scope note: the precise subtopic/unit order and prescribed textbook editions for the current IEC admission cohort remain to be confirmed. Treat case maps and past-paper themes as revision aids, not an official syllabus or marking scheme.
