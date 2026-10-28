@@ -6,9 +6,9 @@
 ## Start here
 1. [Study roadmap, syllabus validation and coverage gaps](docs/ROADMAP.md)
 2. [Paper 1 — Jurisprudence I (Legal Theory)](papers/semester-1/01-jurisprudence/README.md)
-   - [All Paper 1 questions and answers in one file](papers/semester-1/01-jurisprudence/question-and-answers.md)
+   - [Consolidated Paper 1 Q&A — expanded answer edition](papers/semester-1/01-jurisprudence/question-and-answers.md)
 3. [Paper 2 — Constitutional Law of India I](papers/semester-1/02-constitutional-law-i/README.md)
-   - [All Paper 2 questions and answers in one file](papers/semester-1/02-constitutional-law-i/question-and-answers.md)
+   - [Consolidated Paper 2 Q&A — expanded answer edition](papers/semester-1/02-constitutional-law-i/question-and-answers.md)
 4. [Jurisprudence exam-writing method](papers/semester-1/01-jurisprudence/exam-method.md)
 5. [K-1001 question bank and answer outlines](papers/semester-1/01-jurisprudence/question-bank.md)
 6. [Master comparison of jurisprudential schools](papers/semester-1/01-jurisprudence/schools-comparison.md)
