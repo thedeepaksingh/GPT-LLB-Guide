@@ -100,7 +100,10 @@ Check the full judgments before quoting passages or attributing a specific featu
 
 **Conclusion.** The Constitution combines democratic authority with rights, judicial review, federal arrangements and an amendment mechanism. Its distinctive character lies in the interaction of these features, including the need to reconcile majority rule with constitutional limits.
 
-## 11. Likely questions
+## 11. Likely questions — full model answers available
+**Important:** The following are question prompts; the full answer for each is now provided in [Likely Questions — Model Answers](likely-questions-model-answers.md). That companion file contains complete exam-structured answers for all eight questions below.
+
+
 1. Explain the salient features of the Constitution of India. (long)
 2. Discuss the significance and legal status of the Preamble. (medium/long)
 3. Explain constitutionalism and the supremacy of the Constitution. (medium)
