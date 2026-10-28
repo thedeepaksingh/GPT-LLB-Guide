@@ -1,25 +1,9 @@
-# Paper 2 — Constitutional Law of India I (K-1002) — Consolidated Questions and Answers
-**Created:** 2026-10-28 12:30 IST (UTC+05:30)  
-**Purpose:** One place for the question bank and its available answers. This file consolidates the existing resources; it does not certify that every syllabus question has a final answer or that every case has completed primary-source verification.
+# Paper 2 — Constitutional Law of India I (K-1002): Questions and Answers
+**Updated:** 2026-10-28 13:15 IST (UTC+05:30)
 
-## How to use this file
-- Start with short-answer questions, then practise medium and long answers.
-- Question prompts and answer plans are retained where the source bank contains them; full model answers are included in the same document where already drafted.
-- For any prompt that has only an outline, treat it as an identified completion gap—not as a finished model answer.
-- Match answer length to the actual question and the current IEC/CCSU examination instructions.
-- Verify the exact cohort syllabus, current law and primary judgments before the exam.
+**Use this as the single study document.** Short questions are followed immediately by their answers. Each essay, constitutional topic and problem-question heading is followed by its model answer or worked analysis. Duplicate prompts from outline-only lists have been omitted so they do not appear unanswered.
 
-
-
----
-
-# Question bank: short answers and answer plans
-
-Source file: `papers/semester-1/02-constitutional-law-i/question-bank.md`
-
-# K-1002 — Question bank and model answer outlines
-**Created:** 2026-10-27 23:25 IST  
-**Status:** Practice set based on syllabus themes, not guaranteed predictions or an official marking scheme.
+## Section A — Short-answer questions with answers
 
 ## 1. Very short answers (4/5 marks)
 
@@ -59,79 +43,9 @@ In *Justice K.S. Puttaswamy (Retd.) v Union of India* (2017), a nine-judge Supre
 ### 12. What is the difference between Fundamental Rights and Directive Principles?
 Fundamental Rights in Part III are enforceable through constitutional remedies subject to their text and doctrine. Directive Principles in Part IV guide governance and social policy and are not enforceable by courts in the same way. They are both constitutionally significant; *Minerva Mills* illustrates the importance of their relationship and balance.
 
-## 2. Ten-mark answer plans
-Write a definition, relevant Articles, key cases, application/criticism and conclusion.
-
-1. **Salient features of the Constitution:** written and detailed text; Preamble; parliamentary democracy; federal structure; rights and DPSPs; independent judiciary; judicial review; amendment with limits.
-2. **Legal status of the Preamble:** text and values; *Berubari* historical view; *Kesavananda* clarification; interpretive use; limits.
-3. **Article 12 and State instrumentality:** text; public authority/instrumentality issue; *R.D. Shetty* and *Ajay Hasia*; contextual factors and limits.
-4. **Article 14:** equality before law/equal protection; classification test; arbitrariness line; *E.P. Royappa*; apply test to facts.
-5. **Article 19:** identify the particular freedom; exact restriction clause; statutory basis; authorized ground; reasonableness and relevant case.
-6. **Article 20:** three protections; each clause’s elements; relevant authorities; distinguish constitutional protection from statutory procedure.
-7. **Article 21:** *A.K. Gopalan*, *Maneka Gandhi*, dignity/privacy cases; doctrinal development and limits.
-8. **Articles 25–28:** freedom of conscience/religion; constitutional limitations; denominations; religious instruction/taxation; case-law controversy.
-9. **Articles 29–30:** cultural interests and minority educational institutions; text and regulatory limits.
-10. **Articles 32 and 226:** writs, jurisdiction and difference in textual reach.
-
-## 3. Twenty-mark essay questions
-1. Discuss the salient features of the Constitution of India.
-2. Explain the Preamble and critically discuss its legal significance.
-3. “The Indian Constitution is federal with a strong unitary bias.” Discuss with authority.
-4. Explain the basic-structure doctrine and critically examine its justification and limits.
-5. Discuss the scope of Article 12 and the tests for identifying an instrumentality of the State.
-6. Explain Article 14 and the evolution from reasonable classification to arbitrariness doctrine.
-7. Discuss the freedoms guaranteed by Article 19 and the constitutional limitations upon them.
-8. Trace the development of Article 21 with reference to *A.K. Gopalan*, *Maneka Gandhi* and *Puttaswamy*.
-9. Discuss the protections under Article 20 and the limits of the right against self-incrimination.
-10. Explain the constitutional safeguards relating to arrest and preventive detention under Article 22.
-11. Discuss freedom of religion under Articles 25–28 and the balance with constitutional regulation.
-12. Explain cultural and educational rights under Articles 29–30.
-13. Discuss the importance of Articles 32 and 226 in constitutional remedies.
-14. Explain the relationship between Fundamental Rights and Directive Principles.
-15. Discuss judicial review as a feature of constitutionalism.
-
-## 4. Problem questions — issue spotting
-### Problem A: Speech restriction
-A State authority bans a public speech because it is “offensive” without identifying a statutory basis or a ground under Article 19(2). Discuss.
-**Issues to spot:** citizen’s Article 19(1)(a) protection; legal basis; exact ground under Article 19(2); reasonableness/proportionality where applicable; evidence and remedy. Do not conclude solely that the speech is offensive or popular.
-
-### Problem B: Government-controlled company
-A government-controlled entity denies a person a benefit through an arbitrary process. The person claims Article 14.
-**Issues:** whether entity falls within Article 12 using relevant tests; nature of function and control; Article 14 arbitrariness/equality; facts and remedy. Government shareholding alone should not be stated as automatically decisive without context.
-
-### Problem C: Personal liberty
-A passport or other liberty-affecting decision is made without a fair procedure.
-**Issues:** Article 21; *Maneka Gandhi* fairness; Article 14 and other rights if implicated; statutory procedure; opportunity to be heard where required; precise remedy.
-
-### Problem D: Detention
-A person is arrested and not produced before a magistrate within the constitutionally prescribed period.
-**Issues:** Article 22 safeguards and exceptions; facts about custody and arrest; applicable current procedural code and savings provisions; remedy. Do not conflate ordinary arrest safeguards with preventive detention clauses.
-
-### Problem E: Religious practice
-A law regulates a claimed religious practice.
-**Issues:** Article 25/26 scope; textually listed limitations; public order, morality, health and other constitutional provisions; secular activity/social reform clauses; relevant precedents and contested doctrines; proportionality/constitutional validity as applicable.
-
-## 5. Exam technique and error prevention
-- State the **exact Article and clause**. Article 19 restriction grounds are not interchangeable.
-- Identify whether the right belongs to “citizens” or “persons”.
-- Do not call every private organization “State” under Article 12.
-- Do not say Article 21 is absolute.
-- Do not treat the Preamble as an independent remedy for every grievance.
-- Do not equate ordinary-law review under Article 13 with review of constitutional amendments under Article 368/basic structure.
-- Do not present old cases as if their reasoning has never been modified by later judgments.
-- For current arrest procedure, distinguish constitutional Article 22 from the applicable procedural statute.
-
-## 6. Marking checklist
-Score 0–2 on each: question answered directly; relevant text identified; governing test accurate; leading case principle correct; application/criticism present; counterargument/limits included; structure clear; conclusion reasoned. This is a study rubric, not an official CCSU marking scheme.
 
 
-
-
----
-
-# Nature of the Constitution: full answers to eight likely questions
-
-Source file: `papers/semester-1/02-constitutional-law-i/likely-questions-model-answers.md`
+## Nature of the Constitution — full model questions and answers
 
 # K-1002 — Model answers to the “Likely Questions” list
 **Paper:** Constitutional Law of India I  
@@ -382,13 +296,7 @@ Before reproducing any answer:
 - End by answering the question directly.
 
 
-
-
----
-
-# Fundamental Rights: 12 developed model answers
-
-Source file: `papers/semester-1/02-constitutional-law-i/fundamental-rights-model-answers.md`
+## Fundamental Rights — full model questions and answers
 
 # K-1002 — Full model answers: Fundamental Rights
 **Created:** 2026-10-28 12:10 IST (UTC+05:30)  
@@ -550,15 +458,7 @@ Judicial review supports rule of law, rights protection and institutional accoun
 **Conclusion:** Judicial review is a central safeguard of constitutionalism because it makes constitutional limits legally enforceable, while remaining subject to the Constitution's allocation of institutional roles.
 
 
-
-
----
-
-## Consolidation note
-This file brings the question bank and existing model-answer files together in one place for easier study. The original source files remain available separately. Coverage and source-verification gaps are not hidden by this consolidation.
-
-
----
+## Remaining 10-mark questions and constitutional problem questions — worked answers
 
 # K-1002 — Answer key for remaining question-bank prompts and problems
 **Created:** 2026-10-28 13:05 IST (UTC+05:30)  
@@ -670,3 +570,7 @@ Judicial review enables courts to examine whether laws and public action comply 
 **Rule:** Article 25 is subject to public order, morality, health and other Part III provisions and includes specified regulatory/social-reform powers. Article 26 protects denominational rights subject to constitutional limits.  
 **Application:** Identify the precise practice and evidence, whether the claim concerns belief or conduct, whether it is a denominational matter, whether the regulated activity is secular, and which express limitation or other right applies. Consider relevant precedent carefully; “essential religious practice” analysis is contested and context-sensitive.  
 **Conclusion:** Neither religious invocation nor State regulation is automatically decisive. Validity turns on the exact right, constitutional text, evidence, purpose and applicable precedent.
+
+
+## Final exam-readiness cautions
+This document supplies study answers, not a guarantee of marks or an official marking scheme. Verify the exact IEC cohort syllabus and exam instructions, the current constitutional text and each judgment's full holding and subsequent treatment before quoting it.
