@@ -25,7 +25,7 @@ The CCSU-hosted amended three-year LL.B. syllabus describes this paper as **“C
 - [ ] Add cohort-specific teacher notes and prescribed-book page references
 
 ## 3. One-place Questions and Answers
-**Primary study file:** [All available questions and answers in one document](question-and-answers.md). Use this consolidated file first; the individual question bank and model-answer files are retained as source documents.
+**Primary study file:** [Complete consolidated Questions and Answers](question-and-answers.md). This now includes short answers, developed Constitution/Fundamental Rights essays, remaining 10-mark answers and worked constitutional problems. The separate source files remain available for reference.
 
 ## 3A. Study files
 - [Topic 1 — Nature of the Constitution](topic-01-nature-of-constitution.md)
