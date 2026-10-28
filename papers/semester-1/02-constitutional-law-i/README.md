@@ -18,6 +18,7 @@ The CCSU-hosted amended three-year LL.B. syllabus describes this paper as **“C
 - [x] Major doctrinal cases and brief explanations
 - [x] Article map and current-law caution notes
 - [x] Short answers, essay plans, issue-spotting questions and a mock exam
+- [x] Dedicated full model-answer file for 12 high-priority Fundamental Rights questions
 - [ ] Exact batch syllabus and faculty-unit-plan reconciliation
 - [ ] Cross-check each case proposition and subsequent treatment against full judgments
 - [ ] Confirm latest official question papers and marks/choice structure
@@ -27,6 +28,7 @@ The CCSU-hosted amended three-year LL.B. syllabus describes this paper as **“C
 - [Topic 1 — Nature of the Constitution](topic-01-nature-of-constitution.md)
 - [Full model answers to all eight Topic 1 likely questions](likely-questions-model-answers.md)
 - [Topic 2 — Fundamental Rights](topic-02-fundamental-rights.md)
+- [Full model answers to 12 Fundamental Rights questions](fundamental-rights-model-answers.md)
 - [Constitutional article map and case table](article-case-map.md)
 - [Question bank and model answer plans](question-bank.md)
 - [Timed mock paper](mock-paper-1.md)
