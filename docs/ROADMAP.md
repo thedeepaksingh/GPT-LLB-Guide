@@ -1,7 +1,7 @@
 # Roadmap and gap audit
 **Created:** 2026-10-27 23:11 IST (UTC+05:30)  
-**Current workstream:** Semester 1 · Paper 1 · Jurisprudence I (K-1001)  
-**Status at 2026-10-27:** First-pass notes, comparisons, case illustrations, question bank, flashcards and one mock paper are in the repository. Continue validating Paper 1 against IEC's actual cohort syllabus and prescribed editions before treating it as final. Then proceed to Paper 2.
+**Current workstream:** Semester 1 · Paper 2 · Constitutional Law of India I (K-1002)  
+**Status at 2026-10-27:** First-pass notes, comparisons, case illustrations, question bank, flashcards and one mock paper are in the repository. Continue validating Paper 1 against IEC's actual cohort syllabus and prescribed editions before treating it as final. Paper 2 (K-1002) is now active on a separate branch; Paper 1 remains a first-pass draft pending cohort/source verification.
 
 ## 1. Confirm your exact course
 This project assumes the **three-year LL.B.** at IEC Law College, affiliated with CCSU Meerut. CCSU’s official amended three-year LL.B. syllabus (w.e.f. 2017–18) contains five Semester 1 papers, each shown as 100 marks. The university’s January 2026 examination programme separately shows BNS code K-1006 starting w.e.f. 2024–25 and IPC code K-1004 for ex/back-paper students. Your admission session and exam category therefore matter.
@@ -17,7 +17,7 @@ Until these are checked, treat syllabus and pattern descriptions as carefully so
 
 ## 2. Semester 1 coverage checklist
 - [x] Paper 1: Jurisprudence I (Legal Theory), K-1001 — first-pass study pack drafted; final faculty/source verification pending
-- [ ] Paper 2: Constitutional Law of India I, K-1002
+- [x] Paper 2: Constitutional Law of India I, K-1002 — first-pass pack drafted; final cohort/source verification pending
 - [ ] Paper 3: Law of Torts (including Consumer Protection in the more recent timetable naming), K-1003
 - [ ] Paper 4: Law of Crimes — legacy IPC/K-1004 **versus** BNS/K-1006 for newer cohorts; determine applicability before drafting
 - [ ] Paper 5: Contract I (General Principles), K-1005
