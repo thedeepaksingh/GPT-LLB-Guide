@@ -86,3 +86,12 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Paper 1 master now presents short Q&A, 15 developed essay answers and remaining 10-mark/extension answers.
 - Paper 2 master now presents short Q&A, Nature of Constitution model answers, Fundamental Rights model answers and worked answers to remaining 10-mark/problem questions.
 - Final verification caveat remains: current IEC cohort syllabus/exam scheme and full primary-judgment audit must still be checked; these are not claimed complete without the cohort's authoritative materials and judgment-level review.
+
+
+## 2026-10-28 13:20 IST — Paper 3 consolidated Q&A created
+- Opened the K-1003 Law of Torts and Consumer Protection workstream as the next Semester I paper after Jurisprudence and Constitutional Law I.
+- Created a single question-and-answer master document with short answers, developed essays, comparisons and worked hypotheticals.
+- Covered the main syllabus themes: tortious liability, legal damage, defences, vicarious and State liability, strict/absolute liability, negligence, nuisance, trespass, defamation, remoteness and Consumer Protection Act, 2019.
+- Added explicit caution to use the current 2019 consumer statute/rules and avoid outdated pecuniary thresholds or criminal-law numbering.
+- Updated the repository home page and added a Paper 3 index.
+- Open verification items remain: exact IEC cohort syllabus/exam scheme, official question papers, current consumer-procedure rules, and primary-judgment citation/ratio audit. This is an expanded first-pass draft, not certified as final.
