@@ -79,3 +79,10 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Integrated those answer keys into the two consolidated Questions and Answers master files so the primary study documents contain the previously separate answer material.
 - Updated both paper indexes and the repository home page.
 - Remaining verification is explicitly not claimed complete: exact IEC cohort syllabus and exam scheme, official paper review, and full primary-judgment/subsequent-treatment audit still require authoritative materials and checking.
+
+## 2026-10-28 13:15 IST — Master Q&A reordered into question-followed-by-answer format
+- Rebuilt both primary study documents from the short-answer bank and the developed model-answer files.
+- Removed outline-only question lists from the master documents where those prompts were duplicative, so the primary study flow presents answer-ready questions rather than leaving the reader to jump to a distant section.
+- Paper 1 master now presents short Q&A, 15 developed essay answers and remaining 10-mark/extension answers.
+- Paper 2 master now presents short Q&A, Nature of Constitution model answers, Fundamental Rights model answers and worked answers to remaining 10-mark/problem questions.
+- Final verification caveat remains: current IEC cohort syllabus/exam scheme and full primary-judgment audit must still be checked; these are not claimed complete without the cohort's authoritative materials and judgment-level review.
