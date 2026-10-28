@@ -28,7 +28,8 @@ The CCSU-hosted *LL.B. 3 Year (Six Semester) Course — Amended Syllabus (w.e.f.
 - [x] Topic 7 — Marxist/economic approach to law
 - [x] Synoptic comparison of all schools and thinkers
 - [x] Case illustrations with facts, issues, principles and theory relevance (perform final case-by-case checks before quoting)
-- [x] Short answers, 10-mark answer plans and long-essay answers
+- [x] Short answers and 10-mark answer plans
+- [x] Dedicated full model-answer file for 15 high-priority essay questions
 - [x] Mock paper + self-marking rubric + revision deck
 - [ ] Faculty/session-specific syllabus confirmation
 
