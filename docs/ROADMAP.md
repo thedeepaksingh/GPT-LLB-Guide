@@ -1,5 +1,5 @@
 # Roadmap and gap audit
-**Updated:** 2026-10-28 13:20 IST (UTC+05:30)  
+**Updated:** 2026-10-28 13:30 IST (UTC+05:30)  
 **Current workstream:** Semester 1 · Paper 3 · Law of Torts and Consumer Protection Laws (K-1003)
 
 ## 1. Confirm your exact course
@@ -41,4 +41,4 @@ For each examinable subtopic, record: exact syllabus anchor; definition and core
 - Do not label a paper final until the cohort syllabus, current exam scheme, prescribed readings and primary legal authorities have been checked.
 
 ## 6. Current stopping point
-Paper 1 and Paper 2 have consolidated Q&A drafts; Paper 3 now has a consolidated K-1003 Q&A draft. All three still need exact IEC cohort mapping, current examination-pattern confirmation and a case-by-case primary-source review. Next is Paper 4, but first determine whether the student's cohort uses legacy IPC/K-1004 or BNS/K-1006.
+Paper 1 and Paper 2 have consolidated Q&A drafts; Paper 3 now has five topic-wise notes plus a consolidated K-1003 Q&A draft. All three still need exact IEC cohort mapping, current examination-pattern confirmation and a case-by-case primary-source review. Next is Paper 4, but first determine whether the student's cohort uses legacy IPC/K-1004 or BNS/K-1006.
