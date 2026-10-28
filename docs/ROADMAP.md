@@ -1,7 +1,7 @@
 # Roadmap and gap audit
 **Created:** 2026-10-27 23:11 IST (UTC+05:30)  
 **Current workstream:** Semester 1 · Paper 2 · Constitutional Law of India I (K-1002)  
-**Status at 2026-10-27:** First-pass notes, comparisons, case illustrations, question bank, flashcards and one mock paper are in the repository. Continue validating Paper 1 against IEC's actual cohort syllabus and prescribed editions before treating it as final. Paper 2 (K-1002) is now active on a separate branch; Paper 1 remains a first-pass draft pending cohort/source verification.
+**Status at 2026-10-27:** First-pass notes, comparisons, case illustrations, question bank, flashcards and one mock paper are in the repository. Continue validating Paper 1 against IEC's actual cohort syllabus and prescribed editions before treating it as final. Paper 2 (K-1002) first-pass study pack is now merged into main; Paper 1 remains a first-pass draft pending cohort/source verification.
 
 ## 1. Confirm your exact course
 This project assumes the **three-year LL.B.** at IEC Law College, affiliated with CCSU Meerut. CCSU’s official amended three-year LL.B. syllabus (w.e.f. 2017–18) contains five Semester 1 papers, each shown as 100 marks. The university’s January 2026 examination programme separately shows BNS code K-1006 starting w.e.f. 2024–25 and IPC code K-1004 for ex/back-paper students. Your admission session and exam category therefore matter.
