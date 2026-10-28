@@ -52,3 +52,8 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Added the paper map, first-pass notes on the nature of the Constitution and Fundamental Rights, article/case map, question bank, mock examination and source/gap register.
 - Added explicit warnings about cohort-specific syllabus verification, Article 19 clause-specific restriction grounds, Article 12 State tests, Article 13 vs Article 368, and checking current constitutional text and primary judgments.
 - The K-1002 first-pass pack is not yet faculty-verified; exact IEC batch syllabus, prescribed readings, current exam format and case-by-case primary-source review remain open.
+
+## 2026-10-28 10:38 IST — Paper 2 merged to main
+- Merged pull request #2 with the K-1002 Constitutional Law I first-pass pack.
+- Verified that the main branch contains the Paper 2 index, two topic notes, article/case map, question bank, mock paper, revision deck and source/gap register.
+- Paper 2 remains provisional pending IEC cohort syllabus confirmation and full primary-case verification.
