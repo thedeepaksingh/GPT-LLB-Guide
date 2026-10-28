@@ -57,3 +57,7 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Merged pull request #2 with the K-1002 Constitutional Law I first-pass pack.
 - Verified that the main branch contains the Paper 2 index, two topic notes, article/case map, question bank, mock paper, revision deck and source/gap register.
 - Paper 2 remains provisional pending IEC cohort syllabus confirmation and full primary-case verification.
+
+## 2026-10-28 11:30 IST — Paper 2 model-answer gap fixed
+- Added a dedicated model-answer file covering all eight “Likely questions” listed in Topic 1: salient features; Preamble; constitutionalism; federalism; basic structure; Fundamental Rights vs Directive Principles; separation of powers; and *Kesavananda Bharati* / *Minerva Mills*.
+- Linked the answer file from both the topic notes and Paper 2 index so question prompts are not left without a clear full-answer destination.
