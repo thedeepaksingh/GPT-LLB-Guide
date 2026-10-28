@@ -29,6 +29,7 @@ The CCSU-hosted amended three-year LL.B. syllabus describes this paper as **“C
 - [Constitutional article map and case table](article-case-map.md)
 - [Question bank and model answer plans](question-bank.md)
 - [Timed mock paper](mock-paper-1.md)
+- [Flashcards and active recall](revision-deck.md)
 - [Paper-specific sources and verification gaps](sources-and-gaps.md)
 
 ## 4. Core approach for constitutional answers
