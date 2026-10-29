@@ -41,4 +41,14 @@ For each examinable subtopic, record: exact syllabus anchor; definition and core
 - Do not label a paper final until the cohort syllabus, current exam scheme, prescribed readings and primary legal authorities have been checked.
 
 ## 6. Current stopping point
+
+Paper 4 now has an official CCSU syllabus coverage matrix, case-law digest and mock examination with model answer keys and a final revision checklist. The Board of Studies amendment dated 24 August 2024 was located and its Paper IV K-1006 topic list mapped into the matrix. This closes the **topic-mapping** task at syllabus-amendment level, but does not certify every subsection, punishment, judgment citation or later treatment as fully audited.
+
+Open verification items for Paper 4:
+- [ ] Check each statutory subsection and punishment against the current official consolidated BNS text.
+- [ ] Confirm the latest commencement status/notification relevant to BNS s. 106(2).
+- [ ] Verify each case citation and holding against the reported judgment, including later treatment and BNS relevance.
+- [ ] Obtain IEC faculty instructions, latest paper scheme and official past papers for the student's specific sitting.
+- [ ] Run a final line-by-line quality check for every answer, especially offence elements, defences and punishments.
+
 Paper 1 and Paper 2 have consolidated Q&A drafts; Paper 3 has five topic-wise notes plus a consolidated K-1003 Q&A; Paper 4 now has five BNS topic notes plus a consolidated K-1006 Q&A. For the stated 2024–25-or-later regular cohort, the university programme points to BNS/K-1006. Papers 1–4 still require exact IEC unit mapping, current exam-pattern confirmation and case-by-case primary-source review. Next: Paper 5 Contract I (K-1005), after checking the exact syllabus and question pattern.
