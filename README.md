@@ -23,7 +23,7 @@ The CCSU-hosted amended three-year LL.B. syllabus (w.e.f. 2017–18) lists five 
 4. Law of Crimes I (Indian Penal Code) — K-1004 in the legacy scheme
 5. Contract I (General Principles of Contract) — K-1005
 
-**Major change to criminal-law paper:** CCSU’s January 2026 examination programme identifies the Bharatiya Nyaya Sanhita, 2023 (BNS), code K-1006, as starting w.e.f. 2024–25, while legacy IPC code K-1004 remains for ex/back-paper students. Confirm the scheme applicable to your admission session and exam category with IEC Law College before studying the criminal paper. See [official source register](sources/ccsu-syllabus.md). Do not blend IPC and BNS section numbers.
+**Major change to criminal-law paper:** CCSU’s January 2026 examination programme identifies the Bharatiya Nyaya Sanhita, 2023 (BNS), code K-1006, as starting w.e.f. 2024–25, while legacy IPC code K-1004 remains for ex/back-paper students. For the stated 2024–25-or-later regular cohort, the Paper 4 study pack follows BNS/K-1006. Confirm the scheme applicable to your own exam notice with IEC Law College. See [Paper 4 index](papers/semester-1/04-law-of-crimes/README.md) and [official source register](sources/ccsu-syllabus.md). Do not blend IPC and BNS section numbers.
 
 ## Study method
 Every paper is developed separately. Each topic should include exact syllabus mapping; core explanation; definitions and competing theories; historical context; applicable legislation and current version; verified cases with facts, issue, holding and ratio; critiques and counter-arguments; examples/problem application; short, medium and long model answers; likely questions; revision tables and sources.
