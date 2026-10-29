@@ -71,7 +71,7 @@ Primary source: [India Code — Bharatiya Nyaya Sanhita, 2023](https://www.india
 ## Gaps still open
 
 - Check the exact wording of every cited subsection and punishment against the official consolidated Act.
-- Confirm the latest commencement notification for BNS s. 106(2) before relying on it.
+- The official Gazette notification S.O. 850(E), dated 23 February 2024, excluded BNS s. 106(2) from the provisions brought into force on 1 July 2024; the Ministry of Home Affairs/PIB reiterated that exception in December 2024. Recheck for any later notification before the exam.
 - Verify reported citations, judgment text, subsequent treatment and the exact BNS analogy for each IPC-era authority.
 - Obtain the latest IEC faculty unit plan and the actual exam sitting's instructions; the university amendment alone cannot establish lecturer-specific emphasis or question choice.
 - Use recent official CCSU question papers to validate the paper format; do not infer a guaranteed pattern from coaching sites.
