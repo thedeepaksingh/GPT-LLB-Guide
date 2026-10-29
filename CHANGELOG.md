@@ -111,3 +111,12 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Added official BNS and commencement sources, distinguished substantive law from BNSS procedure and BSA evidence, and flagged section 106(2) commencement as a point requiring current notification checking.
 - Updated the repository home page and roadmap.
 - This is an expanded first-pass study draft. Exact IEC K-1006 unit mapping, full primary-judgment ratio/subsequent-treatment review and current exam-pattern verification remain open; section references and punishment details should be checked against the official Act before exam use.
+
+
+## 2026-10-30 — Paper 4 completeness work: syllabus mapping, case law and exam practice
+- Located the official CCSU Board of Studies (Law) syllabus amendment dated 24 August 2024 and mapped the K-1006 Paper IV topic list into a dedicated coverage matrix.
+- Added a case-law digest with concise facts, issues, holdings/principles, exam use and cautions distinguishing former-IPC authorities from current BNS provisions.
+- Added a self-created mock examination, answer keys for short/medium/long/problem questions, and a final revision checklist.
+- Linked the three new resources from the Paper 4 index and repository home page; updated the roadmap.
+- Scope completed: all six requested workstreams are represented in the repository (syllabus map, statutory coverage map, case briefs, expanded exam Q&A resources, mock/revision and an explicit audit).
+- Audit status remains provisional on purpose: subsection/punishment-by-punishment verification, BNS s. 106(2) commencement check, case-by-case reported-judgment/subsequent-treatment review and IEC's sitting-specific exam scheme remain open. Do not treat the pack as a guaranteed exhaustive substitute for prescribed materials.
