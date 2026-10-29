@@ -1,6 +1,6 @@
 # Roadmap and gap audit
-**Updated:** 2026-10-28 13:30 IST (UTC+05:30)  
-**Current workstream:** Semester 1 · Paper 3 · Law of Torts and Consumer Protection Laws (K-1003)
+**Updated:** 2026-10-30 00:05 IST (UTC+05:30)  
+**Current workstream:** Semester 1 · Paper 4 · Law of Crimes I (BNS/K-1006)
 
 ## 1. Confirm your exact course
 This project assumes the three-year LL.B. at IEC Law College, affiliated with CCSU Meerut. The CCSU-hosted amended three-year LL.B. syllabus (w.e.f. 2017–18) lists five Semester 1 papers, each shown as 100 marks. The university's January 2026 examination programme separately shows BNS code K-1006 starting w.e.f. 2024–25 and IPC code K-1004 for ex/back-paper students. Confirm the exact scheme with IEC for your admission session.
@@ -16,7 +16,7 @@ Still needed to close cohort validation:
 - [x] Paper 1: Jurisprudence I (Legal Theory), K-1001 — consolidated Q&A drafted; cohort/source verification pending
 - [x] Paper 2: Constitutional Law of India I, K-1002 — consolidated Q&A drafted; cohort/source verification pending
 - [x] Paper 3: Law of Torts / Consumer Protection Laws, K-1003 — consolidated Q&A draft created; cohort/source verification pending
-- [ ] Paper 4: Law of Crimes — legacy IPC/K-1004 versus BNS/K-1006; determine applicability before drafting
+- [x] Paper 4: Law of Crimes I — BNS/K-1006 selected for stated 2024–25-or-later regular cohort; topic notes and consolidated Q&A drafted; exact IEC unit mapping and primary-source audit pending
 - [ ] Paper 5: Contract I, K-1005
 - [ ] Verify all paper titles, syllabus and codes against the student's own session.
 
@@ -41,4 +41,4 @@ For each examinable subtopic, record: exact syllabus anchor; definition and core
 - Do not label a paper final until the cohort syllabus, current exam scheme, prescribed readings and primary legal authorities have been checked.
 
 ## 6. Current stopping point
-Paper 1 and Paper 2 have consolidated Q&A drafts; Paper 3 now has five topic-wise notes plus a consolidated K-1003 Q&A draft. All three still need exact IEC cohort mapping, current examination-pattern confirmation and a case-by-case primary-source review. Next is Paper 4, but first determine whether the student's cohort uses legacy IPC/K-1004 or BNS/K-1006.
+Paper 1 and Paper 2 have consolidated Q&A drafts; Paper 3 has five topic-wise notes plus a consolidated K-1003 Q&A; Paper 4 now has five BNS topic notes plus a consolidated K-1006 Q&A. For the stated 2024–25-or-later regular cohort, the university programme points to BNS/K-1006. Papers 1–4 still require exact IEC unit mapping, current exam-pattern confirmation and case-by-case primary-source review. Next: Paper 5 Contract I (K-1005), after checking the exact syllabus and question pattern.
