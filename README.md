@@ -25,6 +25,12 @@ The CCSU-hosted amended three-year LL.B. syllabus (w.e.f. 2017–18) lists five 
 
 **Major change to criminal-law paper:** CCSU’s January 2026 examination programme identifies the Bharatiya Nyaya Sanhita, 2023 (BNS), code K-1006, as starting w.e.f. 2024–25, while legacy IPC code K-1004 remains for ex/back-paper students. For the stated 2024–25-or-later regular cohort, the Paper 4 study pack follows BNS/K-1006. Confirm the scheme applicable to your own exam notice with IEC Law College. See [Paper 4 index](papers/semester-1/04-law-of-crimes/README.md) and [official source register](sources/ccsu-syllabus.md). Do not blend IPC and BNS section numbers.
 
+6. [Paper 4 — Law of Crimes I (BNS/K-1006)](papers/semester-1/04-law-of-crimes/README.md)
+   - [Paper 4 master Questions and Answers](papers/semester-1/04-law-of-crimes/question-and-answers.md)
+   - [Paper 4 official syllabus coverage matrix](papers/semester-1/04-law-of-crimes/syllabus-coverage-matrix.md)
+   - [Paper 4 case-law digest](papers/semester-1/04-law-of-crimes/case-law-digest.md)
+   - [Paper 4 mock exam and revision checklist](papers/semester-1/04-law-of-crimes/mock-exam-and-revision.md)
+
 ## Study method
 Every paper is developed separately. Each topic should include exact syllabus mapping; core explanation; definitions and competing theories; historical context; applicable legislation and current version; verified cases with facts, issue, holding and ratio; critiques and counter-arguments; examples/problem application; short, medium and long model answers; likely questions; revision tables and sources.
 
