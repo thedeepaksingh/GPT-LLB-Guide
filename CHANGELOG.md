@@ -103,3 +103,11 @@ All content timestamps use Asia/Kolkata (IST, UTC+05:30). Legal commencement dat
 - Each topic file includes explanatory notes, elements/tests, case-law anchors, examples or worked problems, exam question plans and revision checklists.
 - Updated the Paper 3 index with direct links to each topic and retained the consolidated Q&A as a separate exam-practice resource.
 - These notes are detailed first-pass material, not a claim of final syllabus or case-law verification. Cohort-specific mapping, current statutory rules and primary-judgment audit remain open.
+
+
+## 2026-10-30 00:05 IST — Paper 4 BNS/K-1006 pack created
+- Applied the user's stated admission session (2024–25 or later) and regular exam status to select BNS/K-1006 rather than legacy IPC/K-1004, based on the CCSU January 2026 LL.B. Semester I examination programme.
+- Added a Paper 4 index, five topic-by-topic notes (foundations/punishments; general exceptions/private defence; abetment/conspiracy/attempt/group liability; offences against persons; property/State/public order/reputation), and a consolidated Q&A master with 38 short, essay, comparison and problem questions.
+- Added official BNS and commencement sources, distinguished substantive law from BNSS procedure and BSA evidence, and flagged section 106(2) commencement as a point requiring current notification checking.
+- Updated the repository home page and roadmap.
+- This is an expanded first-pass study draft. Exact IEC K-1006 unit mapping, full primary-judgment ratio/subsequent-treatment review and current exam-pattern verification remain open; section references and punishment details should be checked against the official Act before exam use.
