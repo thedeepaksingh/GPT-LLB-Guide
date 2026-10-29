@@ -11,6 +11,12 @@ For the stated admission session (2024–25 or later) and regular exam, this rep
 
 The BNS came into force on 1 July 2024, subject to the notified exception for BNS section 106(2). This paper is about **substantive criminal law**. Criminal procedure is principally governed by the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS); evidence by the Bharatiya Sakshya Adhiniyam, 2023 (BSA). Do not treat the three Acts as interchangeable.
 
+## Completion resources
+
+- [Official syllabus coverage matrix](syllabus-coverage-matrix.md) — maps every topic in the CCSU August 2024 amendment to study files and statutory anchors.
+- [Case-law digest](case-law-digest.md) — facts, issues, holdings, principles, exam use and cautions for former-IPC authorities.
+- [Mock examination, model answers and revision checklist](mock-exam-and-revision.md) — self-created practice paper with answer keys; not an official or predicted paper.
+
 ## Read in this order
 
 1. [Topic 1 — Foundations, elements, punishments and stages of crime](topic-01-foundations-elements-and-punishments.md)
